@@ -1,7 +1,7 @@
 import React from "react";
 import "./AppDownload.css";
 import { assets } from "../../assets/assets";
-
+// app download
 const AppDownload = () => {
   return (
     <div className="app-download" id="app-download">
