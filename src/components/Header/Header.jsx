@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "./Header.css";
-
+// Header
 const Header = () => {
   // const { menulist } = useContext(ExploreMenu); // using context correctly
 
