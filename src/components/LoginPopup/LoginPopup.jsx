@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./LoginPopup.css";
 import { assets } from "../../assets/assets";
-
+// login popup
 const LoginPopup = ({ setShowLogin }) => {
   const [currState, setCurrState] = useState("Sign Up");
 
