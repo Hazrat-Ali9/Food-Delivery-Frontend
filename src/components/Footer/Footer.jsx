@@ -38,7 +38,7 @@ const Footer = () => {
       {/* hr tag means horizontal line */}
       <hr />
       <p className="footer-copyright">
-        Copyright 2024 @ Tomato.com - All Right Reserved.
+        Copyright Hazrat Ali All Right Reserved.
       </p>
     </div>
   );
