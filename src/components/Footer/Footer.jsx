@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import { assets } from "../../assets/assets";
-
+// footer js
 const Footer = () => {
   return (
     <div className="footer" id="footer">
